@@ -1,5 +1,0 @@
-
-
-<input type="button" value="Name of the batch file" onclick="window.open('file:///C:/Users/2282214/Desktop/batFile_testing/gitest.bat')"/>
-
-<button onclick="window.open('file:///C:/Users/2282214/Desktop/batFile_testing/gitest.bat')">Temperature Sensor</button>
